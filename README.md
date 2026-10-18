@@ -26,7 +26,7 @@ Cada nível de água do reservatório possui uma mensagem de alerta e uma cor co
 | **Nível 5** | Muito alto (alerta) | 🟦 Azul | Alerta Máximo |
 
 
-## ***Simulação no Terminal 💻***
+## ***Simulação no Terminal***
 
 
 ```text
