@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/Licença-MIT-orange?style=for-the-badge)
 
 
 ## ***Um pouco sobre o Projeto***
