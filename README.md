@@ -28,7 +28,7 @@ Cada nível de água do reservatório possui uma mensagem de alerta e uma cor co
 
 ##  ***Pré-requisitos e Instalação ​🙏​✨​***
 
-Antes de executar o projeto, certifique-se de ter o *Python* instalado na sua máquina.
+Antes de executar o projeto, certifique-se de ter o *Python* instalado no seu computador.
 
 ### Instalação da biblioteca `colorama` 👇​​
 
