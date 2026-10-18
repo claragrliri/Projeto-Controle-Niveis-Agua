@@ -26,8 +26,23 @@ Cada nível de água do reservatório possui uma mensagem de alerta e uma cor co
 | **Nível 5** | Muito alto (alerta) | 🟦 Azul | Alerta Máximo |
 
 
-## ***Simulação no Terminal***
+##  ***Pré-requisitos e Instalação ​🙏​✨​***
 
+Antes de executar o projeto, certifique-se de ter o *Python* instalado na sua máquina.
+
+### Instalação da biblioteca `colorama` 👇​​
+
+O projeto utiliza a biblioteca **Colorama** para colorir e formatar os textos no terminal. Para instalá-la, siga os passos abaixo:
+
+1. Abra o terminal no seu VS Code.
+2. Verifique se o seu ambiente está nos coformes e execute o comando:
+
+```text
+pip install colorama
+```
+Se retornar informações como versão e local de instalação, o Colorama já está pronto para ser usado!
+
+## ***Simulação no Terminal***
 
 ```text
 === Sistema de Monitoramento de Reservatório de Água ===
